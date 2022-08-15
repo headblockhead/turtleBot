@@ -1,2 +1,2 @@
-# turtle-bot
+# turtleBot
 A python UI-based turtle controller
